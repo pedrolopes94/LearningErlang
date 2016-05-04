@@ -1,3 +1,5 @@
+%% @author Pedro Lopes
+%% Problem of the Reverse Polish Notation Calculator.
 -module(calc).
 -export([rpn/1, rpn_test/0]).
 
