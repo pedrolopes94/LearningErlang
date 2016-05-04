@@ -1,3 +1,5 @@
+%% @author Pedro Lopes
+%% If functions module.
 -module(what_the_if).
 -export([heh_fine/0, oh_god/1, help_me/1]).
 

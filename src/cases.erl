@@ -1,3 +1,5 @@
+%% @author Pedro Lopes
+%% Cases module.
 -module(cases).
 -export([insert/2,beach/1]).
 
