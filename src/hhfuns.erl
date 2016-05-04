@@ -1,3 +1,5 @@
+%% @author Pedro Lopes
+%% Higher Order Functions module.
 -module(hhfuns).
 -compile(export_all).
 

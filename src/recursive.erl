@@ -1,3 +1,5 @@
+%% @author Pedro Lopes
+%% Recursive functions module.
 -module(recursive).
 -export([zip/2,lenient_zip/2,tail_zip/3,tail_lenient_zip/3]).
 

@@ -1,3 +1,5 @@
+%% @author Pedro Lopes
+%% Exceptions module.
 -module(exceptions).
 -compile(export_all).
 
